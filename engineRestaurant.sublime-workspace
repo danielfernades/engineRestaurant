@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"separadorCampos"
+			],
+			[
+				"c",
+				"campos"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"inser",
+				"insertar"
+			],
+			[
+				"de",
+				"dentro"
+			],
+			[
+				"wh",
+				"whereINot"
+			],
+			[
+				"co",
+				"comienzo"
+			],
+			[
+				"campo",
+				"campo"
+			],
+			[
+				"feh",
+				"fechaInicio"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"con",
+				"consultas"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"campos",
+				"campos_comas"
+			],
+			[
+				"D",
+				"Diccionario"
+			],
+			[
+				"u",
+				"usuario"
+			],
+			[
+				"cla",
+				"clave"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"cone",
+				"conectar"
+			],
+			[
+				"conexion",
+				"Conexion"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"Genero",
+				"genero"
+			],
+			[
+				"a",
+				"ano"
+			],
+			[
+				"usr",
+				"user_profile"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cal",
+				"calculaedad"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"e",
+				"edad"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"alert",
+				"alertar"
+			],
+			[
+				"i",
+				"info"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"la",
+				"lat"
+			],
+			[
+				"ge",
+				"geocoder"
+			],
+			[
+				"lonla",
+				"lonlat"
+			],
+			[
+				"to",
+				"toProjection"
+			],
+			[
+				"lo",
+				"lonlat"
+			],
+			[
+				"TO",
+				"toProjection"
+			],
+			[
+				"lon",
+				"lonlat"
+			],
+			[
+				"lat",
+				"latLng"
+			],
+			[
+				"dire",
+				"direccion"
+			],
+			[
+				"magin",
+				"margin-bottom"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"FON",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fech",
+				"fechaFinal"
+			],
+			[
+				"dife",
+				"diferencia"
+			],
+			[
+				"fec",
+				"fechaFinal"
+			],
+			[
+				"die",
+				"diferenciaSegundos"
+			],
+			[
+				"fecha",
+				"fechaActual"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"Fecha",
+				"Fecha_final"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"es",
+				"estado"
+			],
+			[
+				"ini",
+				"Inicio"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"magi",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Fecha_",
+				"Fecha_inicio"
+			],
+			[
+				"cr",
+				"cursor"
+			],
+			[
+				"direc",
+				"direction-buttom"
+			],
+			[
+				"mapa",
+				"mapa-direction"
+			],
+			[
+				"form",
+				"form-direction"
+			],
+			[
+				"en",
+				"enviarMensaje"
+			],
+			[
+				"re",
+				"recibirMensaje"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"h2",
+				"h2"
+			],
+			[
+				"margin-r",
+				"margin-right"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"bar",
+				"background"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"img",
+				"img"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"cam",
+				"cambio2"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"article",
+				"article"
+			],
+			[
+				"nav",
+				"nav"
+			],
+			[
+				"section",
+				"section"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"menu",
+				"menub"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"categor",
+				"categoria"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"bus",
+				"buscar"
+			],
+			[
+				"cat",
+				"catcoords"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"metodo",
+				"metodo2"
+			],
+			[
+				"me",
+				"metodo2"
+			],
+			[
+				"lca",
+				"localizar"
+			],
+			[
+				"lati",
+				"latitud"
+			],
+			[
+				"loca",
+				"localizacion"
+			],
+			[
+				"Ta",
+				"Tamaulipas"
+			],
+			[
+				"sin",
+				"sinaloa"
+			],
+			[
+				"P",
+				"Potosí"
+			],
+			[
+				"L",
+				"Luis"
+			],
+			[
+				"S",
+				"San"
+			],
+			[
+				"ro",
+				"roo"
+			],
+			[
+				"le",
+				"leon"
+			],
+			[
+				"na",
+				"nayarit"
+			],
+			[
+				"M",
+				"Morelos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.py",
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Windows",
+				"name": "test"
+			}
+		},
+		{
+			"file": "Conexion.py",
+			"settings":
+			{
+				"buffer_size": 860,
+				"line_ending": "Windows",
+				"name": "Conexion"
+			}
+		},
+		{
+			"contents": "SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;\n\nSET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;\n\nSET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL,ALLOW_INVALID_DATES';\n\n\n\nDROP SCHEMA IF EXISTS 'Prueba' ;\n\nCREATE SCHEMA IF NOT EXISTS 'Prueba' DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci ;\n\nSHOW WARNINGS;\n\nUSE 'Prueba' ;\n\n\n\n-- -----------------------------------------------------\n\n-- Table 'datos'\n\n-- -----------------------------------------------------\n\nDROP TABLE IF EXISTS 'datos' ;\n\n\n\nSHOW WARNINGS;\n\nCREATE  TABLE IF NOT EXISTS 'datos' (\n\n  'ID_Alumno' INT NOT NULL ,\n\n  'Nombre' VARCHAR(150) NOT NULL ,\n\n  'Carrera' VARCHAR(150) NOT NULL ,\n\n  PRIMARY KEY ('ID_Alumno') )\n\nENGINE = InnoDB;\n\n\n\nSHOW WARNINGS;\n\nCREATE UNIQUE INDEX 'ID_Alumno_UNIQUE' ON 'datos' ('ID_Alumno' ASC) ;\n\n\n\nSHOW WARNINGS;\n\nUSE 'Prueba' ;\n\n",
+			"settings":
+			{
+				"buffer_size": 865,
+				"line_ending": "Windows",
+				"name": "SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHE"
+			}
+		},
+		{
+			"file": "Consultas.py",
+			"settings":
+			{
+				"buffer_size": 3869,
+				"line_ending": "Windows",
+				"name": "Consultas"
+			}
+		},
+		{
+			"file": "/C/AppServ/www/Cardenas/Controlador/Consulta.php",
+			"settings":
+			{
+				"buffer_size": 6842,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 307.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/eljebus/Documents/GitHub/engineRestaurant/Anotaciones.txt",
+		"/C/Users/eljebus/Documents/recursos/psycopg2-master/psycopg2-master/examples/simple.py",
+		"/C/python/presupuesto.py",
+		"/C/AppServ/www/karate/karate/index.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Eventos.php",
+		"/C/AppServ/www/karate/karate/Controlador/sql.php",
+		"/C/AppServ/www/karate/karate/KarateRegistro.php",
+		"/C/AppServ/www/xtremo/crear_base.php",
+		"/C/AppServ/www/karate/test.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/busquedas.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Conexion.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/cat.php",
+		"/C/AppServ/www/karate/Controlador/sql.php",
+		"/C/AppServ/www/karate/karate/Controlador/prueba.php",
+		"/C/AppServ/www/karate/KarateRegistro.php",
+		"/C/AppServ/www/Cardenas/Modelos/correo.php",
+		"/C/AppServ/www/cazaeventos/Conexion.php",
+		"/C/AppServ/www/Cardenas/Modelos/Admin.php",
+		"/C/AppServ/www/karate/Controlador/Consulta.php",
+		"/C/AppServ/www/karate/index.php",
+		"/C/AppServ/www/Cardenas/Contacto.php",
+		"/C/AppServ/www/Cardenas/js/correo.js",
+		"/C/AppServ/www/Cardenas/Modelos/SucursalC.php",
+		"/C/AppServ/www/Cardenas/Modelos/Anuncios.php",
+		"/C/AppServ/www/Cardenas/Modelos/driver_index.php",
+		"/C/AppServ/www/Cardenas/Controlador/controlador.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/AppServ/www/Cardenas/css/contacto.css",
+		"/C/AppServ/www/Cardenas/css/style.css",
+		"/C/AppServ/www/Cardenas/index.php",
+		"/C/Ruby200-x64/lib/ruby/gems/2.0.0/gems/terminal-table-1.4.5/Manifest",
+		"/C/AppServ/www/curso/servidor.js",
+		"/C/AppServ/www/curso/css/main.css",
+		"/C/AppServ/www/curso/test.php",
+		"/C/AppServ/www/curso/javascript/js/main.js",
+		"/C/AppServ/www/curso/javascript/js/core/eventos.js",
+		"/C/AppServ/www/curso/javascript/js/app.js",
+		"/C/AppServ/www/curso/pruebas.html",
+		"/C/AppServ/www/cazaeventos/index.php",
+		"/C/AppServ/www/curso/test",
+		"/C/AppServ/www/cazaeventos/cazaeventos.sublime-workspace",
+		"/C/AppServ/www/OSM/test2.php",
+		"/C/AppServ/www/cazaeventos/js/direccion.js",
+		"/C/AppServ/www/cazaeventos/test.php",
+		"/C/AppServ/www/cazaeventos/css/index.css",
+		"/C/AppServ/www/cazaeventos/moviles/base.php",
+		"/C/Users/Jesus/AppData/Local/Temp/fz3temp-1/localizacion.js",
+		"/C/AppServ/www/cazaeventos/js/localizacion.js",
+		"/C/AppServ/www/cazaeventos/js/confirm.js",
+		"/C/AppServ/www/cazaeventos/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/css/evento.css",
+		"/C/AppServ/www/cazaeventos/Modelos/busquedas.php",
+		"/C/AppServ/www/cazaeventos/Modelos/cat.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/resultado.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/localizacion.js",
+		"/C/Users/Jesus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jesus/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/AppServ/www/cazaeventos/Proximos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/uno.php",
+		"/C/Users/eljebus/Desktop/.htaccess",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/uno.php",
+		"/C/AppServ/www/mejorada/mod.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/Admin_galery.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/paginas.js",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Prox.php",
+		"/C/AppServ/www/cazaeventos/moviles/index.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldec.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categorias.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/categoriass.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/localizacion.js",
+		"/C/AppServ/www/Cardenas/.htaccess",
+		"/C/AppServ/www/cazaeventos/moviles/css/index.css",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/dos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Calendario.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/moldev.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/resultados.php",
+		"/C/AppServ/www/cazaeventos/moviles/css/localizacion.css",
+		"/C/AppServ/www/cazaeventos/contador.php",
+		"/C/AppServ/www/cazaeventos/js/regresiva.js",
+		"/C/AppServ/www/cazaeventos/style.css",
+		"/C/AppServ/www/cazaeventos/cel.png",
+		"/C/AppServ/www/cazaeventos/Eventos.php",
+		"/C/AppServ/www/cazaeventos/js/confirmacion.js",
+		"/C/AppServ/www/cazaeventos/Busquedas.php",
+		"/C/AppServ/www/cazaeventos/Cercanos.php",
+		"/C/AppServ/www/cazaeventos/js/cercanos.js",
+		"/C/AppServ/www/cazaeventos/Modelos/categoria.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/Evento.php",
+		"/F/Docs/jcg/eduardo/consarray.php",
+		"/F/Docs/jcg/Base de Datos/rentas.php",
+		"/F/Docs/jcg/Base de Datos/registro de cliente.php",
+		"/F/Docs/jcg/Base de Datos/conectar.php",
+		"/C/Users/eljebus/AppData/Local/Temp/fz3temp-1/paginas.js",
+		"/C/AppServ/www/cazaeventos/Vistas/cabecera.php",
+		"/C/AppServ/www/cazaeventos/Vistas/letras.php",
+		"/C/AppServ/www/cazaeventos/Vistas/logo.php",
+		"/C/AppServ/www/cazaeventos/Evento.php",
+		"/C/AppServ/www/cazaeventos/cabecera.png",
+		"/C/AppServ/www/cazaeventos/css/busqueda.css",
+		"/C/AppServ/www/cazaeventos/css/cercanos.css",
+		"/C/AppServ/www/cazaeventos/.htaccess",
+		"/C/AppServ/www/Cardenas/Empresa.php",
+		"/C/AppServ/www/cazaeventos/css/eventos.css",
+		"/C/AppServ/www/cazaeventos/Vistas/pie.php",
+		"/C/AppServ/www/cazaeventos/moviles/js/direccion.js",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/confirmacion.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/Proximos.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/categoriass.php",
+		"/C/AppServ/www/cazaeventos/moviles/Modelos/busqueda.php",
+		"/C/AppServ/www/cazaeventos/moviles/Vistas/menu.php",
+		"/C/AppServ/www/cazaeventos/js/mapa.js",
+		"/C/AppServ/www/Curso/estilos.css",
+		"/C/AppServ/www/cazaeventos/estilonormal.css",
+		"/C/AppServ/www/cazaeventos/pie.css",
+		"/C/AppServ/www/Curso/node/index.php",
+		"/C/Program Files/nodejs/Servidor.js",
+		"/C/Program Files/nodejs/node_modules/socket.io/index.js",
+		"/C/AppServ/www/Curso/index.html",
+		"/C/AppServ/www/Cardenas/css/index.css",
+		"/C/AppServ/www/cazaeventos/cabecera.psd",
+		"/C/AppServ/www/Curso/index.php",
+		"/C/AppServ/www/Curso/codigo.js",
+		"/C/AppServ/www/Geolocalizacion/base.php",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/C/Users/eljebus/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/AppServ/www/cazaeventos/Contacto.php"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"`",
+			"mydb",
+			"asoc",
+			"separador",
+			"::$",
+			"'",
+			"`",
+			"mydb",
+			"inser",
+			"inpu",
+			"rocessGeocoder",
+			"mapa",
+			"processGeocoder",
+			"erro",
+			"languaje",
+			"save",
+			"dashe",
+			"center",
+			"on('c",
+			"catego",
+			"pie",
+			"box",
+			"box-s",
+			"pie",
+			"footer",
+			"box-s",
+			"digits.png",
+			"socia",
+			"alert",
+			"fecha(",
+			"fec",
+			"fecha",
+			"alert",
+			"categoria.php",
+			"categoria",
+			"busca",
+			"alert",
+			"busqueda",
+			"cargar",
+			"molde",
+			"mostrar",
+			"localizar",
+			"Proximos",
+			"alert",
+			"Prox",
+			"encu",
+			"open-ubication",
+			"precision",
+			"dialog-confirm",
+			"#dialog-confirm",
+			"dialog-c",
+			"echo",
+			"dashe",
+			"ser",
+			"servi",
+			"dash",
+			"ef",
+			"aiz",
+			"fecha",
+			"processGeocoder",
+			"busquedas",
+			"ser",
+			"texto",
+			"dashed",
+			"DASHED",
+			"		\n",
+			"alert",
+			"mapa",
+			"estado",
+			"inio",
+			",INTERVAL 1 YEAR",
+			"1 year",
+			"inter",
+			"evento",
+			"mapa",
+			"l1",
+			"sensor",
+			"izq",
+			"iz",
+			"dashe",
+			"foo",
+			"slider",
+			"figcaption",
+			"hover",
+			"diviso",
+			"das",
+			"producto ul",
+			"producto",
+			"centro",
+			"text",
+			"infer",
+			"#secciones",
+			"busqueda",
+			"border:dashed 1px;",
+			"input",
+			"<li class=\"hijos\">PRODUCTOS</li>",
+			">\n",
+			"<li class=\"hijos\">PRODUCTOS</li>",
+			"overflow: hidden;",
+			"border:dashed 1px;",
+			"text-s",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"border:dashed 1px;\nborder:dashed 1px;",
+			"border:dashed 1px;",
+			"#personalizacion #llantas figure img,\n#personalizacion #techo figure img,\n{\n	max-width: 100%;\n	transition: all 1s ease;\n	\n}",
+			"#personalizacion #llantas figure img,",
+			"<h2>Elige un llantas</h2>",
+			"<h2>Elige un color</h2>",
+			"				\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"\n				<article",
+			"				<",
+			"article>\n				",
+			">\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"<h2>Elige un color</h2>",
+			">\n",
+			"<h2>Elige un color</h2>",
+			"<figure id=\"llanta1\">\n						<img src=\"llanta1.png\"/>\n						<figcaption>\n							caras\n						</figcaption>\n						\n					</figure>\n",
+			"transition:all 1s linear;",
+			"transform:scale(1.2);",
+			"text-shadow:rgba(255,255,255,0.5) 5px 5px 10px;",
+			"\n							"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"Prueba",
+			".",
+			"",
+			"'",
+			"mindoncl_karate"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.py",
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								364,
+								356
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test",
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Conexion.py",
+					"settings":
+					{
+						"buffer_size": 860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								705,
+								705
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Conexion",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"auto_name": "SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHE",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Consultas.py",
+					"settings":
+					{
+						"buffer_size": 3869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3718,
+								3718
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Consultas",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 538.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/AppServ/www/Cardenas/Controlador/Consulta.php",
+					"settings":
+					{
+						"buffer_size": 6842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4666,
+								4603
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 90.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true
+}

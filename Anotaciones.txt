@@ -1,0 +1,4 @@
+definir funciones en Python
+	def nombre_de_la_funcion(parámetros):
+    	# aquí escribimos el código que realiza la acción que definimos
+    cuandio definimos una una funcion en python el parametro pass significa que la funcion no hara nada y esta a la espera de recibir codigo para funcionar, estas sirven para ir marcando el esqueleto del programa sin qe este se afecte
